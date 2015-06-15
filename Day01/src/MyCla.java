@@ -1,17 +1,17 @@
 public class MyCla {
 	public static void main(String[] args){
-		System.out.println("·ç·ç·ç¶ö¶ó¶ö");
-		System.out.println("´©´©´«");
-		System.out.printf("À¸Èï\n");
-		System.out.printf("ÈìÈìÈì");
+		System.out.println("ë£¨ë£¨ë£¨ë„ë¼ë„");
+		System.out.println("ëˆ„ëˆ„ëˆˆ");
+		System.out.printf("ìœ¼í¥\n");
+		System.out.printf("í í í ");
 		
-		System.out.printf("C¾ğ¾îÃ³·³ Ãâ·Â : %d\n", 10);
-		System.out.print("ÀÚ¹ÙÀÇ±âº»Ãâ·Â¹®");
-		System.out.print("¾êµµ ÁÙ ¾È¹Ù²Ş");
+		System.out.printf("Cì–¸ì–´ì²˜ëŸ¼ ì¶œë ¥ : %d\n", 10);
+		System.out.print("ìë°”ì˜ê¸°ë³¸ì¶œë ¥ë¬¸");
+		System.out.print("ì–˜ë„ ì¤„ ì•ˆë°”ê¿ˆ");
 		
-		// ÇÑ ÁÙ ÁÖ¼® ±âÈ£ : ¸Ş¸ğÇÏ°í ½ÍÀ» ¶§ »ç¿ë (ÄÄÆÄÀÏ ´ë»ó¿¡¼­ Á¦¿ÜµÊ)
-		/*¿©·¯ÁÙ ÁÖ¼® ½ÃÀÛ ±âÈ£ 
-		¿©·¯ÁÙ ÁÖ¼® ³¡ ±âÈ£
-		(¾êµµ ÄÄÆÄÀÏ¿¡¼­ Á¦¿Ü)*/
+		// í•œ ì¤„ ì£¼ì„ ê¸°í˜¸ : ë©”ëª¨í•˜ê³  ì‹¶ì„ ë•Œ ì‚¬ìš© (ì»´íŒŒì¼ ëŒ€ìƒì—ì„œ ì œì™¸ë¨)
+		/*ì—¬ëŸ¬ì¤„ ì£¼ì„ ì‹œì‘ ê¸°í˜¸ 
+		ì—¬ëŸ¬ì¤„ ì£¼ì„ ë ê¸°í˜¸
+		(ì–˜ë„ ì»´íŒŒì¼ì—ì„œ ì œì™¸)*/
 	}
 }

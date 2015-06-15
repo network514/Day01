@@ -1,6 +1,6 @@
 public class IntroduceMySelf2 {
 	public static void main(String[] args){
-		System.out.println("========== ÀÚ±â¼Ò°³ Ãâ·ÂÇÏ±â ==========");
-		System.out.println("ÀÌ¸§ : ±ÇÀÚ¿µ\n³ªÀÌ : "+23+"¼¼\nÅ° : ¾È¾Ë·ªÁÜ\nÄ£±¸ : ¸¹À½\nÃë¹Ì : µ¶¼­\nÆ¯±â : Á¶¸³");
+		System.out.println("========== ìê¸°ì†Œê°œ ì¶œë ¥í•˜ê¸° ==========");
+		System.out.println("ì´ë¦„ : ê¶Œìì˜\në‚˜ì´ : "+23+"ì„¸\ní‚¤ : ì•ˆì•Œë´ì¤Œ\nì¹œêµ¬ : ë§ìŒ\nì·¨ë¯¸ : ë…ì„œ\níŠ¹ê¸° : ì¡°ë¦½");
 	}	
 }
